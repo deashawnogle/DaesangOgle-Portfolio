@@ -1,0 +1,48 @@
+* {
+  font-family: cursive;
+  margin: 0%;
+  box-sizing: border-box;
+  background-color: rgb(196, 236, 252);
+}
+
+body {
+  background-color: rgb(196, 236, 252);
+}
+
+.header_area {
+  border: 5px solid black;
+  padding: 0;
+}
+
+.nav-link, .navbar-brand {
+  font-size: 20pt;
+  padding: 0;
+}
+
+.container {
+  border: 5px solid black;
+  margin-top: 10%;
+}
+.project{
+  padding-top: 2%;
+}
+
+#daesang {
+  width: 70%;
+  height: 95%;
+  margin-top: 10px;
+  border-radius: 50px;
+  box-shadow: 10px 10px 5px grey;
+}
+
+#aboutme-main {
+  margin-top: 50px;
+}
+
+.aboutme {
+  font-size: 25pt;
+}
+
+.h {
+  height: 45vh !important;
+}
