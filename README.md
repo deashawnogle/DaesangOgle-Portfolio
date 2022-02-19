@@ -9,7 +9,6 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#contribution)
   - [Test](#test)
   - [Github](#github)
   - [Email](#email)
@@ -28,13 +27,9 @@ HTML / CSS / Bootstrap / JavaScript
 ------------------
 HTML / CSS / BootStrap / JavaScript
 
-## Contribution
-------------------
-hi
-
 ## Test
 ------------------
-run script - npm run test
+TBD
 
 ## Contact
 ------------------
