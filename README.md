@@ -35,7 +35,7 @@ TBD
 ------------------
 Github account : deashawnogle<br>
 Email : deashawnogle@gmail.com<br>
-Github Repository : <a href="https://github.com/deashawnogle">deashawnogle</a>
+Github Repository : <a href="https://github.com/deashawnogle">deashawnogle</a><br>
 LinkedIn : <a href="https://www.linkedin.com/in/dae-sang-ogle-2a613712a/">Daesang Ogle</a>
 
 ## Deployed Link
